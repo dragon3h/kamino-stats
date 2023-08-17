@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import LogoImg from "./assets/MPPps3IA_400x400.jpg";
+import LogoImg from "../../assets/MPPps3IA_400x400.jpg";
 
 export default function MainHeader() {
   return (
